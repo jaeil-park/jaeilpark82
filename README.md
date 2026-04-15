@@ -41,8 +41,4 @@
 [![Tistory](https://img.shields.io/badge/Blog-Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white)](https://jaeil-boxs.tistory.com) [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaeilpark82@gmail.com) 
 * 📄 [상세 이력서 다운로드 (PDF)](#) ```
 
----
-
-이렇게 메인 프로필 세팅이 완료되었습니다! 전문성이 한눈에 들어오는 아주 훌륭한 대문입니다. 
-
-이제 방문자(면접관, 클라이언트)가 포트폴리오를 보고 더 깊은 신뢰를 느낄 수 있도록, **가장 자신 있는 프로젝트 1개(예: C사 AI/NVR 인프라 구축)를 골라 '상세 아키텍처 및 트러블슈팅'이 담긴 개별 Repository README**를 작성해 보려고 하는데, 어떤 프로젝트를 첫 번째 상세 포트폴리오로 만들고 싶으신가요?
+create by jipark
